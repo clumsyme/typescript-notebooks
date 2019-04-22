@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es6",
+        "outDir": "out",
+        "rootDir": "notebooks",
+        "moduleResolution":2,
+        "esModuleInterop":true
+    },
+    "exclude": ["node_modules"]
+}
