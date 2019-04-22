@@ -11,7 +11,7 @@ Typescript 学习相关笔记。
 pip install jupyter
 
 # 运行笔记本
-jupyter notebooks
+jupyter notebook
 ```
 
 ### 互动编辑：需安装 typescript kernal
